@@ -4,5 +4,8 @@
     "gender": "male",
     "address": "Bekasi",
     "hobby": [ "sleep", "sleep" ]
-  }
+  },
+    "home": {
+      "apps": ["chrome", "mozilla"]
+    }
 }
